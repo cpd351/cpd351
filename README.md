@@ -5,4 +5,4 @@ Com o objetivo de sanar as duvidas referentes aos trabalhos realizados pelos "ca
 leia o conteudo com muita atenção, caso encontre alguma inconcistencia ou algum conteudo desatualizado por favor comente nesse repositorio as mudanças que mostram ser necessarias. 
 
 
-###### Autor: [Rychard Antony Pereira de Arruda](https://github.com/RychardProficional/RychardProficional)
+###### © Autor: [Rychard Antony Pereira de Arruda](https://github.com/RychardProficional/RychardProficional)
